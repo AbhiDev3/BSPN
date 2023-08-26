@@ -1,0 +1,21 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "@worldcoin/id": "^0.8.0",
+    "@worldcoin/world-id-contracts": "^0.1.1",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "hardhat-contract-sizer": "^2.6.1",
+    "node-fetch": "^3.2.10",
+    "siwe": "^1.1.6",
+    "thirdweb": "^0.7.10",
+    "usingtellor": "^4.0.7"
+  }
+}
