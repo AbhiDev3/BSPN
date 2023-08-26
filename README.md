@@ -50,7 +50,3 @@ code: https://github.com/AbhiDev3/BSPN/blob/cfee60a4e021b6d8de47a6a6debe26eb1abd
 
 
 We're excited to redefine real estate transactions with you!
-
----
-
-**License:** This project is licensed under the [MIT License](LICENSE).
