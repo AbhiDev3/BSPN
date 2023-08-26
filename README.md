@@ -43,8 +43,10 @@ BSPN addresses traditional real estate challenges:
 ## ENS and SpruceID Integration
 
 - **ENS (Ethereum Name Service):** BSPN utilizes ENS for user-friendly domain access, simplifying interactions.
+code: https://github.com/AbhiDev3/BSPN/blob/cfee60a4e021b6d8de47a6a6debe26eb1abdc3c9/frontend/components/Navbar.js#L13-L28
 
 - **SpruceID:** Enhances user authentication, offering a seamless and secure sign-in process.
+code: https://github.com/AbhiDev3/BSPN/blob/cfee60a4e021b6d8de47a6a6debe26eb1abdc3c9/frontend/context/stateContext.js#L34-L47
 
 
 We're excited to redefine real estate transactions with you!
