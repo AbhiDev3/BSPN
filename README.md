@@ -32,6 +32,8 @@ BSPN addresses traditional real estate challenges:
 
 5. **Security:** Employs decentralized storage and cryptographic mechanisms to safeguard property data.
 
+Video Demo: https://vimeo.com/858216992?share=copy
+
 ## Use Cases
 
 - **Buyers and Investors:** Easily explore and invest in real estate properties, backed by blockchain security.
