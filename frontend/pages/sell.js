@@ -70,7 +70,7 @@ export default function Sell(){
             // const table_name = await tableland.create(
             // `id integer, name text,price integer,rentPrice integer, description text, details text, location text,image text,rent text,sale text,sold text,owner text, primary key (id)`,
             // {
-            //     prefix: `blockstate`
+            //     prefix: `BlockStatePropertyNetwork `
             // }
             // );
 

@@ -75,7 +75,7 @@ export default function Membership() {
     return (
         <div className="px-40 text-white mt-2">
             <div className="flex items-center flex-col p-10 text-lg">
-                <p className="text-lg">Join the buyers community of BlockState which helps you to promote your properties to our thousands of buyers.</p>
+                <p className="text-lg">Join the buyers community of BlockStatePropertyNetwork  which helps you to promote your properties to our thousands of buyers.</p>
                 <div className="flex items-center flex-col mt-8 gap-4 text-lg p-10 border-2 rounded-r-3xl">
                     <h1 className="text-xl font-bold tracking-widest underline underline-offset-2">Block State Pro Membership</h1>
                     <p className="flex items-center gap-3"> <BsCheck2Circle className="text-xl"/> Buyer Community Access</p>
